@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "892627281527",
+    "project_id": "examenfinal-31be1",
+    "storage_bucket": "examenfinal-31be1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892627281527:android:08a5c41533d9f9f882c872",
+        "android_client_info": {
+          "package_name": "com.edwar.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892627281527-s1k2lla372cjgbog4f2dtu8s4drd00st.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edwar.myapplication",
+            "certificate_hash": "525d37da6f5237337debdd40c73e7afebb900cea"
+          }
+        },
+        {
+          "client_id": "892627281527-d36bavmkvt6r3p5qrvg237sflbs00041.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBC_fPic_B0nWIAGr3c67UuvRP4hJJJJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892627281527-d36bavmkvt6r3p5qrvg237sflbs00041.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

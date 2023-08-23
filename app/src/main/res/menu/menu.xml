@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@id/favoriteFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_coupon"
+        android:title="Listado">
+    </item>
+    <item
+        android:id="@id/listFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_favorite"
+        android:title="Favoritos">
+    </item>
+    <item
+        android:id="@id/infoFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_info"
+        android:title="Info">
+    </item>
+    <item
+        android:id="@id/infoFragment"
+        android:enabled="true"
+        android:icon="@drawable/baseline_exit_to_app_24"
+        android:title="Cerrar Sesion">
+    </item>
+</menu>
